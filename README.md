@@ -44,7 +44,9 @@ Connect VSWR to detector mount and note down the dB reading in VSWR meter for bo
 The difference of both dB reading of VSWR meter gives the modulation depth of PINmodulator.
 Note: After tuning the Gunn source, the procedure for VSWR & Impedance measurement depthof PIN modulator.
 
-## B.Observation: ( Include your own Table relevant to the Experiment) (Include Tabulation Part)
+## B.Observation:
+<img width="1228" height="1280" alt="image" src="https://github.com/user-attachments/assets/6e130c94-aa10-4536-84cc-67b237944205" />
+
 
 ## C.Analysis of Results:
 <img width="960" height="1280" alt="exp 1 - VI graph" src="https://github.com/user-attachments/assets/5afc431a-eb9b-4a15-a799-454374a5aa80" />
