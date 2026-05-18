@@ -47,6 +47,7 @@ Note: After tuning the Gunn source, the procedure for VSWR & Impedance measureme
 ## B.Observation: ( Include your own Table relevant to the Experiment) (Include Tabulation Part)
 
 ## C.Analysis of Results:
+<img width="960" height="1280" alt="exp 1 - VI graph" src="https://github.com/user-attachments/assets/5afc431a-eb9b-4a15-a799-454374a5aa80" />
 
 The I–V characteristics showed a distinct negative resistance region, confirming Gunn effect operation, and the measured frequency and power output increased with appropriate biasing, validating the diode’s microwave generation behavior.
 
@@ -58,3 +59,4 @@ The experiment confirmed Gunn diode operation through its negative resistance re
 • Check the connections before switching on the kit. • Connections should be done properly. • Observation should be taken properly.
 
 ## Result:
+Thus, the V-I characteristics of Gunn diode is studied and verified experimentally.
