@@ -46,11 +46,12 @@ Note: After tuning the Gunn source, the procedure for VSWR & Impedance measureme
 
 ## B.Observation: ( Include your own Table relevant to the Experiment) (Include Tabulation Part)
 
-## C.Analysis of Results: (Write your own)
+## C.Analysis of Results:
 
-(Include sample calculations/Display/plot/typical graph)
+The I–V characteristics showed a distinct negative resistance region, confirming Gunn effect operation, and the measured frequency and power output increased with appropriate biasing, validating the diode’s microwave generation behavior.
 
-## D.Conclusions: (Write your Own)
+## D.Conclusions: 
+The experiment confirmed Gunn diode operation through its negative resistance region and showed that proper biasing enables stable microwave frequency and power generation.
 
 ## Precautions:
 
